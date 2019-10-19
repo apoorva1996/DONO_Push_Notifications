@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">GeCqXn5iITRucIv1LEtukCdEt7YeakdovetGUqsD</string>
+    <string name="back4app_client_key">M8d2BJsotb0tCGodAoqnHQVyKJmxQdxf1S5rI1jc</string>
+</resources>
